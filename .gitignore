@@ -1,0 +1,17 @@
+# Ignore virtual environment
+vdownloaderenvironment_py3.10/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore downloads
+static/downloads/
+
+# Ignore database files
+*.db
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
